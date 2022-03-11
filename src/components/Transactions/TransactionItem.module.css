@@ -1,0 +1,20 @@
+.container {
+  justify-content: space-evenly;
+  text-align: justify;
+  display: flex;
+}
+
+.date {
+  justify-content: center;
+  vertical-align: middle;
+  align-items: center;
+  align-content: center;
+}
+
+.name {
+  justify-content: center;
+}
+
+.amount {
+  justify-content: flex-end;
+}
